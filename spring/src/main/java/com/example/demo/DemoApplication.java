@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoApplication {
 	@GetMapping(value = "/spring")
 	public String welcome(){
-		return "hello HArish";
+		return "hello i am working";
 	}
 
 
